@@ -59,6 +59,14 @@ export default function Portfolio() {
         "Integrated REST APIs and optimized MySQL & MongoDB databases.",
       ],
     },
+  {
+    role: "Data analyst Intern",
+    Company:"ASM Tech Solutions",
+    Duration:"July 2026 - Present",
+    Points: [
+      "Analyzing market trends using SQL and Excel to extract, clean, and structure data from multiple sources into reportable databases.",
+    ],
+  },
   ];
 
   return (
@@ -148,7 +156,7 @@ export default function Portfolio() {
               
               alt="Pavan Sai"
               className="w-full h-full object-cover"
-            />
+             />
           </div>
         </div>
       </section>
@@ -310,7 +318,7 @@ export default function Portfolio() {
             </div>
           </div>
 
-          <div className="bg-white/5 border border-white/10 rounded-3xl p-8 backdrop-blur-lg">
+          <div className="bg-whyite/5 border border-white/10 rounded-3xl p-8 backdrop-blur-lg">
             <h2 className="text-3xl font-bold text-cyan-400 mb-6">
               Certifications
             </h2>
