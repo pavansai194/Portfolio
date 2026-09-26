@@ -59,13 +59,16 @@ export default function Portfolio() {
         "Integrated REST APIs and optimized MySQL & MongoDB databases.",
       ],
     },
-  {
-    role: "Data analyst Intern",
-    Company:"ASM Tech Solutions",
-    Duration:"July 2026 - Present",
-    Points: [
-      "Analyzing market trends using SQL and Excel to extract, clean, and structure data from multiple sources into reportable databases.",
-    ],
+  
+    {
+  company: "ASM Tech Solutions",
+  role: "Data Analyst Intern",
+  duration: "July 2026 - Present",
+  points: [
+    "Analyzing market trends using SQL and Excel to extract, clean, and structure data from multiple sources into reportable database",
+    "Translating market research findings into structured reports, combining domain research with a technical, data-driven apporach",
+    "Applying Python scripts to automate data collection and processing, reducing manual research effort and improving time",],
+
   },
   ];
 
